@@ -1,0 +1,30 @@
+{
+  "name": "postcss-prefix-webpack",
+  "version": "1.0.0",
+  "description": "Post CSS Prefix Plugin for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagendertank/postcss-prefix-webpack.git"
+  },
+  "keywords": [
+    "postcss",
+    "webpack",
+    "postcss-prefix",
+    "css"
+  ],
+  "author": "Nagendra Tank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagendertank/postcss-prefix-webpack/issues"
+  },
+  "homepage": "https://github.com/nagendertank/postcss-prefix-webpack#readme",
+  "devDependencies": {
+    "postcss": "^7.0.1",
+    "postcss-prefixer": "^2.1.0",
+    "schema-utils": "^0.4.5"
+  }
+}
