@@ -1,6 +1,6 @@
 {
   "name": "postcss-prefix-webpack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Post CSS Prefix Plugin for webpack",
   "main": "index.js",
   "scripts": {
