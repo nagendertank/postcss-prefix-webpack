@@ -22,9 +22,11 @@
     "url": "https://github.com/nagendertank/postcss-prefix-webpack/issues"
   },
   "homepage": "https://github.com/nagendertank/postcss-prefix-webpack#readme",
+  "dependencies": {
+    "postcss-prefixer": "^2.1.0"
+  },
   "devDependencies": {
     "postcss": "^7.0.1",
-    "postcss-prefixer": "^2.1.0",
     "schema-utils": "^0.4.5"
   }
 }
