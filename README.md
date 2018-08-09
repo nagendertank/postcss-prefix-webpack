@@ -92,7 +92,8 @@ module.exports = {
   /* content */
 }
 ```
-
+## Recommendation
+* Use it with [react-classname-prefix-loader-with-lookup](https://www.npmjs.com/package/react-classname-prefix-loader-with-lookup) for react className
 
 ## Credits
 
